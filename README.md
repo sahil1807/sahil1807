@@ -3,7 +3,7 @@
 [![sahil arora](https://i.postimg.cc/0NLfDWv9/back4.png)][1]
 
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=518AFA)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=sahil1807&color=518AFA)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-518AFA.svg?logo=typescript&logoWidth=20)](https://github.com/sahil1807)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-518AFA.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23518AFA.svg?logo=gmail&logoWidth=20)][5]
